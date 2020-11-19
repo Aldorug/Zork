@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Runtime.Serialization;
+using Microsoft.CodeAnalysis.CSharp.Scripting;
 
 namespace Zork
 {

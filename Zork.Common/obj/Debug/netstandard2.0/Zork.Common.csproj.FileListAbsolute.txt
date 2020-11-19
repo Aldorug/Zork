@@ -1,0 +1,10 @@
+E:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csprojAssemblyReference.cache
+E:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.CoreCompileInputs.cache
+E:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfoInputs.cache
+E:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfo.cs
+E:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.deps.json
+E:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.dll
+D:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csprojAssemblyReference.cache
+D:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfoInputs.cache
+D:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfo.cs
+D:\School\Fall 2020\Tools and Plugins\Assignment 1\Zork\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.CoreCompileInputs.cache
